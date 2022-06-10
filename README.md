@@ -1,6 +1,7 @@
-# Muestra de la documentación
+# **Documentación completa en *Proyecto final Desarrollo Apps moviles.pdf***
+### Muestra de la documentación
 
-## AuthActivity.kt
+#### AuthActivity.kt
 
 Esta es la actividad que originalmente era la principal, la main, fue renombrada para hacer alusión a que es es la que lleva a cabo los procesos de solicitar la autenticación, y desde luego es la primera que se ejecuta al iniciar la aplicación
 
@@ -38,7 +39,7 @@ override fun onCreate(savedInstanceState: Bundle?) {
 ```
 
 
-## colors.xml
+#### colors.xml
 
 En este archivo xml personalicé algunos colores para asignarlos a los distintos elementos de acuerdo a la siguiente paleta de colores de forma que determinados botones y el fondo adopten un colores relacionados entre sí
 
