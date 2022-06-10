@@ -1,5 +1,4 @@
-# Proyecto final apps moviles
-## Muestra de documentación
+# Muestra de la documentación
 
 ## AuthActivity.kt
 
